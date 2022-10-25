@@ -1,6 +1,7 @@
 # instagram_login_page
 [source](https://getbootstrap.com/)
 <h5>Views of instagram login page in different screen sizes</h5>
+<p>Sorting from largest to smallest</p>
 
 ![Screenshot from 2022-10-25 22-15-26](https://user-images.githubusercontent.com/93613471/197862230-cb96278a-efd5-4b52-b06e-cd6f4e8de31d.png)
 <br>
