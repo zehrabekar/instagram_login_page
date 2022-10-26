@@ -15,6 +15,4 @@
 <br>
 
 ![Screenshot from 2022-10-25 22-24-15](https://user-images.githubusercontent.com/93613471/197863769-bfd90821-7ffc-4cf8-99ba-a795f67cf174.png)
-<br>
 
-![Screenshot from 2022-10-25 22-25-14](https://user-images.githubusercontent.com/93613471/197863934-b79c73ad-c0fb-4de6-8d34-3658ea8ce6b0.png)
