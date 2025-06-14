@@ -1,7 +1,24 @@
-# instagram_login_page
-[source](https://getbootstrap.com/)
-<h5>Views of instagram login page in different screen sizes </h5>
-<p>Sorting from largest to smallest</p>
+# Instagram Login Page – Responsive Web Design
+
+This project is a responsive clone of the [Instagram](https://www.instagram.com/) login page, developed to improve my front-end skills and practice responsive layouts.
+
+## 🎯 Project Goal
+
+The aim of this project is to replicate the login page of a modern social media platform while focusing on responsive design using Bootstrap 5.
+
+## 🧰 Technologies Used
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+
+## 🧩 Key Features
+
+- Fully responsive layout  
+- Device-based layout changes  
+- Accurate styling and spacing based on the original Instagram login page
+
+## 📷 Responsive Views (From Largest to Smallest)
 
 ![Screenshot from 2022-10-25 22-15-26](https://user-images.githubusercontent.com/93613471/197862230-cb96278a-efd5-4b52-b06e-cd6f4e8de31d.png)
 <br>
